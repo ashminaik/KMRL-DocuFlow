@@ -27,7 +27,7 @@ The goal is to save time, improve compliance, reduce duplication of effort, and 
 - Backend: Node.js / Express  
 - AI & NLP: Python (Transformers, OCR, summarization)  
 - LLM: OpenRouter (used for multilingual understanding, including Malayalam, as required in the SIH problem statement)  
-- Database: MongoDB / PostgreSQL  
+- Database: PostgreSQL  
 - Deployment: Vercel / Docker  
 
 ---
